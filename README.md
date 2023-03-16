@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![dawiddc's Stats](https://github-readme-stats.vercel.app/api?username=dawiddc&show_icons=true&include_all_commits=true&count_private=true&theme=transparent)
+
+#### 📫 How to reach me:
+
+*   mail: [dawid.ciok@gmail.com](mailto:dawid.ciok@gmail.com)
+*   linkedin: [linkedin.com/in/dawidciok](https://www.linkedin.com/in/dawidciok)
